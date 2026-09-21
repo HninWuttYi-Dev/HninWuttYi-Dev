@@ -49,7 +49,7 @@ Currently diving deep into the **.NET ecosystem** under the guidance of **Ko San
 | **[June2026](https://github.com/HninWuttYi-Dev/June2026)** | Main repository from Ko Sann Lynn Htun's C# .NET Course | 🔥 Active |
 | **[BookStorePOS](https://github.com/HninWuttYi-Dev/BookStorePOS)** | Final Project - Point of Sale System for Bookstore | 🚧 In Progress |
 | **Telegram Auto Sale Bot** | Real-world Telegram bot used by actual users | ✅ Live |
-| **[JSLocalStorageBlog](https://github.com/HninWuttYi-Dev/JSLocalStorageBlog)** | Simple blog using JavaScript LocalStorage | ✅ Completed |
+
 
 ---
 
